@@ -1,0 +1,10 @@
+1)What is polling?
+Polling also refers to the situation where a device is repeatedly checked 
+for readiness, and if it is not, the computer returns to a different task. 
+Although not as wasteful of CPU cycles as busy waiting, this is generally not as 
+efficient as the alternative to polling, interrupt-driven I/O.
+
+2)websoket is standard protocal
+
+3)socket.on le client(frontEnd) batw backed samma data laijanxa
+     testai socket.emit le chai backend batw client samma data(response) laijanchha
